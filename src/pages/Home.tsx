@@ -80,7 +80,7 @@ export default function Home() {
         </>
       ) : (
         <div className="text-center text-muted-foreground py-10">
-          <p className="text-2xl font-headline mb-2">Welcome to CineScope</p>
+          <p className="text-2xl font-headline mb-2">Welcome to Movie Explorer</p>
           <p>Search for a movie to get started.</p>
         </div>
       )}
